@@ -1,0 +1,5 @@
+p = input("Enter a number")
+q = input("Enter a number")
+x = int(p)
+y = int(q)
+print("The sum",x+y)
